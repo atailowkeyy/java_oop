@@ -1,0 +1,5 @@
+C:\Users\ADMIN\.jdks\openjdk-23.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\lib\idea_rt.jar=52058:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\code\java_oop\tailieu\dethi\FinalExam\OOPKHI2425_FinalExam_De1\out\production\OOPKHI2425_FinalExam_De1 hus.oop.rootsolver.TestRootFinding
+Nghiệm của sin(x) * x - 3 trong [12,15] là: 
+sử dụng phương pháp bisection: 12.802891771309078
+sử dụng phương pháp newton: 12.802891770857455
+sử dụng phương pháp secant: 12.802891770847642
